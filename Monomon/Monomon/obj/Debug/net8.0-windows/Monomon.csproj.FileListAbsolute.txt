@@ -28,3 +28,4 @@ C:\Users\User\Documents\GitHub\Monomon\Monomon\Monomon\obj\Debug\net8.0-windows\
 C:\Users\User\Documents\GitHub\Monomon\Monomon\Monomon\bin\Debug\net8.0-windows\Content\player.xnb
 C:\Users\User\Documents\GitHub\Monomon\Monomon\Monomon\bin\Debug\net8.0-windows\Content\tileMap.xnb
 C:\Users\User\Documents\GitHub\Monomon\Monomon\Monomon\bin\Debug\net8.0-windows\Content\colisionmap.xnb
+C:\Users\User\Documents\GitHub\Monomon\Monomon\Monomon\bin\Debug\net8.0-windows\Content\player1.xnb

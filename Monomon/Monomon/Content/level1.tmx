@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="8" tileheight="8" infinite="0" nextlayerid="3" nextobjectid="1">
  <editorsettings>
-  <export target="../bin/Debug/net8.0-windows/tileset_Colision.csv" format="csv"/>
+  <export target="../bin/Debug/net8.0-windows/tileset_colision.csv" format="csv"/>
  </editorsettings>
  <tileset firstgid="1" source="tileset.tsx"/>
  <tileset firstgid="161" source="colisionmap.tsx"/>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Monomon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5f136cf12880486777f7b0291e000418781dba1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6192f2c95481477fe2379c46eb6eac4542e602c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Monomon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Monomon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

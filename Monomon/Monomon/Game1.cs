@@ -143,7 +143,7 @@ public class Game1 : Game
         _spriteBatch = new SpriteBatch(GraphicsDevice);
 
        
-        _playerspritesheet = Content.Load<Texture2D>("player");
+        _playerspritesheet = Content.Load<Texture2D>("player1");
 
         
         _animationManager = new AnimationManager(10, 10, new Vector2(16, 16));

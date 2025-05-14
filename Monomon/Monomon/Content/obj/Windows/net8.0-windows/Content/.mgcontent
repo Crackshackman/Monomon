@@ -5,11 +5,13 @@
   <Config />
   <SourceFiles>
     <File>C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/Sprites/player.png</File>
+    <File>C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/Sprites/player1.png</File>
     <File>C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/TileMap/colisionmap.png</File>
     <File>C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/TileMap/tileMap.png</File>
   </SourceFiles>
   <DestFiles>
     <File>player.png</File>
+    <File>player1.png</File>
     <File>colisionmap.png</File>
     <File>tileMap.png</File>
   </DestFiles>

@@ -1,4 +1,5 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/Sprites/player.png","C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/bin/Windows/Content/player.xnb","TextureProcessor","Texture2DContent",706,5205,0.1180536
+"C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/Sprites/player1.png","C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/bin/Windows/Content/player1.xnb","TextureProcessor","Texture2DContent",1075,10325,0.1904136
 "C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/TileMap/colisionmap.png","C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/bin/Windows/Content/colisionmap.xnb","TextureProcessor","Texture2DContent",147,2133,0.1224863
 "C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/TileMap/tileMap.png","C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/bin/Windows/Content/tileMap.xnb","TextureProcessor","Texture2DContent",3694,41045,0.1380593
