@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/Sprites/player.png</File>
+    <File>C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/TileMap/colisionmap.png</File>
+    <File>C:/Users/User/Documents/GitHub/Monomon/Monomon/Monomon/Content/TileMap/tileMap.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>player.png</File>
+    <File>colisionmap.png</File>
+    <File>tileMap.png</File>
+  </DestFiles>
+</SourceFileCollection>
